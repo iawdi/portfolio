@@ -5,7 +5,7 @@ I create music, sound design, and interactive audio systems for games and visual
 
 ---
 
-## 🎬 Featured Work
+## Featured Work
 
 ### ExeKiller — Gameplay Reveal Trailer
 A promotional gameplay video from my latest project, where I led all aspects of audio design.  
@@ -16,7 +16,7 @@ title="ExeKiller — Gameplay Reveal Trailer" frameborder="0" allowfullscreen></
 
 ---
 
-## 🎧 Listen
+## Listen
 
 ### SoundCloud
 A collection of my music exploring a wide stylistic range — from cinematic and ambient to electronic and experimental works.
@@ -25,7 +25,7 @@ A collection of my music exploring a wide stylistic range — from cinematic and
 allow="autoplay" 
 src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/igor_awdiejew&color=%23222222&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-[👉 Visit my SoundCloud profile](https://soundcloud.com/igor_awdiejew)
+**[Visit my SoundCloud profile →](https://soundcloud.com/igor_awdiejew)**
 
 ---
 
@@ -37,11 +37,11 @@ src="https://open.spotify.com/embed/artist/56DHA2zyETnVRySAXPTGsH?utm_source=gen
 width="100%" height="352" frameBorder="0" 
 allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-[👉 Listen on Spotify](https://open.spotify.com/artist/56DHA2zyETnVRySAXPTGsH)
+**[Listen on Spotify →](https://open.spotify.com/artist/56DHA2zyETnVRySAXPTGsH)**
 
 ---
 
-## 📬 Contact
+## Contact
 **Email:** [i.awdiejew@gmail.com](mailto:i.awdiejew@gmail.com)  
 **Location:** Krakow, Poland  
 **LinkedIn:** [linkedin.com/in/igor-awdiejew](https://linkedin.com/in/igor-awdiejew)  
