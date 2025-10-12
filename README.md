@@ -21,8 +21,9 @@ title="ExeKiller — Gameplay Reveal Trailer" frameborder="0" allowfullscreen></
 ### SoundCloud
 A collection of my music exploring a wide stylistic range — from cinematic and ambient to electronic and experimental works.
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay"
-src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/igor_awdiejew/przeprawa%3Fin%3Digor_awdiejew/sets/tracks&color=%23222222&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" 
+allow="autoplay" 
+src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/igor_awdiejew&color=%23222222&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 **[Visit my SoundCloud profile →](https://soundcloud.com/igor_awdiejew)**
 
