@@ -6,4 +6,4 @@ Audio and music showcase
 - project 2
 
 ### Soundcloud 
--e mbed
+- embed something
