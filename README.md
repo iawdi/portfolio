@@ -34,7 +34,7 @@ A collection of my music exploring a wide stylistic range — from cinematic and
 ---
 
 ### Spotify
-A selection of my more recent compositions — fewer tracks for now, but representing my latest direction and production approach.
+My more recent compositions — fewer tracks for now, but representing my latest direction and production approach.
 
 <iframe style="border-radius:12px" 
 src="https://open.spotify.com/embed/artist/56DHA2zyETnVRySAXPTGsH?utm_source=generator" 
