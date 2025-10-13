@@ -11,8 +11,14 @@ I create music, sound design, and interactive audio systems for games and visual
 A promotional gameplay video from my latest project, where I led all aspects of audio design.  
 Everything you hear in this footage — music, SFX, and gameplay audio — was either created by me or passed through my hands during production.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nr9SX3TvVnw" 
-title="ExeKiller — Gameplay Reveal Trailer" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/nr9SX3TvVnw" 
+  title="ExeKiller — Gameplay Reveal Trailer" 
+  frameborder="0" 
+  allowfullscreen 
+  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 ---
 
