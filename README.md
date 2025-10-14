@@ -48,7 +48,7 @@ allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen
 ## Contact
 **Email:** [i.awdiejew@gmail.com](mailto:i.awdiejew@gmail.com)  
 **Location:** Krakow, Poland  
-**LinkedIn:** [linkedin.com/in/igor-awdiejew](https://linkedin.com/in/igor-awdiejew)  
+**LinkedIn:** [linkedin.com/in/igor-awdiejew](https://www.linkedin.com/in/igor-awdiejew-46415082/)  
 
 ---
 
