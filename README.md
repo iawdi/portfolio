@@ -1,15 +1,29 @@
 # Igor Awdiejew — Game Audio Designer & Composer
 
 Welcome to my personal portfolio.  
-I create music, sound design, and interactive audio systems for games and visual media.
+I create sound, music, and interactive audio systems for games and visual media.
 
 ---
 
 ## Featured Work
 
+### ExeKiller — Gameplay Overview
+A promotional gameplay video from my latest project, where I led all aspects of audio design and music.  
+SFX you hear in the video are mine or co-produced under my direction.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="www.youtube.com/embed/Jey6cdAjNaU?si=IFTO3VeqRBBKb6MD" 
+  title="ExeKiller — Gameplay Reveal Trailer" 
+  frameborder="0" 
+  allowfullscreen 
+  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+---
+
 ### ExeKiller — Gameplay Reveal Trailer
-A promotional gameplay video from my latest project, where I led all aspects of audio design.  
-Everything you hear in this footage — music, SFX, and gameplay audio — was either created by me or passed through my hands during production.
+An older video from the game with my sound design.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe src="https://www.youtube.com/embed/nr9SX3TvVnw" 
@@ -22,7 +36,7 @@ Everything you hear in this footage — music, SFX, and gameplay audio — was e
 
 ---
 
-## Listen
+## Music
 
 ### SoundCloud
 A collection of my music exploring a wide stylistic range — from cinematic and ambient to electronic and experimental works.
@@ -33,18 +47,6 @@ A collection of my music exploring a wide stylistic range — from cinematic and
 
 ---
 
-### Spotify
-My more recent compositions — fewer tracks for now, but representing my latest direction and production approach.
-
-<iframe style="border-radius:12px" 
-src="https://open.spotify.com/embed/artist/56DHA2zyETnVRySAXPTGsH?utm_source=generator" 
-width="100%" height="352" frameBorder="0" 
-allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-**[Listen on Spotify →](https://open.spotify.com/artist/56DHA2zyETnVRySAXPTGsH)**
-
----
-
 ## Contact
 **Email:** [i.awdiejew@gmail.com](mailto:i.awdiejew@gmail.com)  
 **Location:** Krakow, Poland  
@@ -52,4 +54,4 @@ allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen
 
 ---
 
-© 2025 Igor Awdiejew — All rights reserved.
+© 2026 Igor Awdiejew — All rights reserved.
