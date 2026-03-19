@@ -1,7 +1,7 @@
 # Igor Awdiejew — Game Audio Designer & Composer
 
 Welcome to my personal portfolio.  
-I create sound, music, and interactive audio systems for games and visual media.
+I create sound, music, and audio systems.
 
 ---
 
