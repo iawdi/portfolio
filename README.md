@@ -12,7 +12,7 @@ A promotional gameplay video from my latest project, where I led all aspects of 
 SFX you hear in the video are mine or co-produced under my direction.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe src="www.youtube.com/embed/Jey6cdAjNaU?si=IFTO3VeqRBBKb6MD" 
+  <iframe src="https://www.youtube.com/embed/Jey6cdAjNaU?si=IFTO3VeqRBBKb6MD" 
   title="ExeKiller — Gameplay Reveal Trailer" 
   frameborder="0" 
   allowfullscreen 
