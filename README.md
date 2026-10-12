@@ -1,5 +1,4 @@
-# Igor Awdiejew — Game Audio Designer & Composer
-
+# Igor Awdiejew — Audio Design
 Welcome to my personal portfolio.  
 I create audio and music for games.
 
@@ -18,6 +17,8 @@ My reinterpretation of sound design for Cronos by Bloober Team on a short gamepl
   style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
 </div>
+
+---
 
 ### ExeKiller — Gameplay Overview
 A promotional gameplay video from my latest project, co-produced with the team.
